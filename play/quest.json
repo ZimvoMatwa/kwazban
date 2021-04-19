@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Mandoza was an iconic kwaito artist in which country?",
+    "choice1": "Zambia",
+    "choice2": "Belarus",
+    "choice3": "South Africa",
+    "choice4": "India",
+    "answer": 3
+  },
+  {
+    "question": "A group of flamingos is called what?",
+    "choice1": "A flamboyance",
+    "choice2": "A squad",
+    "choice3": "Peaches",
+    "choice4": "Pink panthers",
+    "answer": 1
+  },
+  {
+    "question": "The ____ of a shrimp is located in its head.",
+    "choice1": "Intestine",
+    "choice2": "Anus",
+    "choice3": "Telson",
+    "choice4": "Heart",
+    "answer": 4
+  },
+  {
+    "question": "When spliced together, there are 26 minutes of quiet staring in this film series.",
+    "choice1": "Silent Hill",
+    "choice2": "Harry Potter",
+    "choice3": "Twilight",
+    "choice4": "Star Trek",
+    "answer": 3
+  },
+  {
+    "question": "Barry Manilow’s hit, “I Write the Songs”, was written by ___.",
+    "choice1": "Bruce Johnston",
+    "choice2": "Barry Manilow",
+    "choice3": "Billy Joel",
+    "choice4": "Foo Fighters",
+    "answer": 1
+  }
+]
